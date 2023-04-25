@@ -14,7 +14,7 @@ Network for those earning a NW Masters of Applied Data Science
 - [GitHub]() ◆ [LinkedIn]() ◆ [Capstone Repo]() ◆ [Overleaf]() ◆ JC
 - [GitHub]() ◆ [LinkedIn]() ◆ [Capstone Repo]() ◆ [Overleaf]() ◆ DE
 - [GitHub]() ◆ [LinkedIn]() ◆ [Capstone Repo]() ◆ [Overleaf]() ◆ AF
-- [GitHub]() ◆ [LinkedIn]() ◆ [Capstone Repo]() ◆ [Overleaf]() ◆ AL
+- [GitHub](https://github.com/abbylloyd03) ◆ [LinkedIn](https://www.linkedin.com/in/abby-lloyd-4a0b11183/) ◆ [Capstone Repo](https://github.com/abbylloyd03/44688-Data-Analytics-Capstone) ◆ [Overleaf](https://www.overleaf.com/read/xjqzqzscypfy) ◆ Abby Lloyd
 - [GitHub]() ◆ [LinkedIn]() ◆ [Capstone Repo]() ◆ [Overleaf]() ◆ TM
 - [GitHub]() ◆ [LinkedIn]() ◆ [Capstone Repo]() ◆ [Overleaf]() ◆ BM
 - [GitHub]() ◆ [LinkedIn]() ◆ [Capstone Repo]() ◆ [Overleaf]() ◆ SP
